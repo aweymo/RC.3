@@ -20,7 +20,7 @@
   "features": {
     "search": true,
     "groupSelectorAttribute": "Modularity Class",
-    "hoverBehavior": "dim"
+    "hoverBehavior": false
   },
   "informationPanel": {
     "groupByEdgeDirection": false,
@@ -40,13 +40,13 @@
       "defaultLabelSize": 14
     },
     "graphProperties": {
-      "maxEdgeSize": 0.5,
-      "minEdgeSize": 0.2,
-      "minNodeSize": 1,
-      "maxNodeSize": 7
+      "maxEdgeSize": 1.25,
+      "minEdgeSize": 0.75,
+      "minNodeSize": 2,
+      "maxNodeSize": 4
     },
     "mouseProperties": {
-      "maxRatio": 20,
+      "maxRatio": 25,
       "minRatio": 0.75
     }
   }
